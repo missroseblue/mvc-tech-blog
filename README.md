@@ -40,7 +40,8 @@ Not accepting contributions at this time
 
 ## Deployed Application
 [Tech Blog] (https://sc-mvc-tech-blog.herokuapp.com/)
-![2021-11-14_09-56-12](https://user-images.githubusercontent.com/28720227/141692673-b522ad22-c856-418c-ac41-419072c80664.jpg)
+![2021-11-14_10-01-10](https://user-images.githubusercontent.com/28720227/141692781-aea4bfc0-2831-4585-ad52-a56a13dad089.png)
+
 
 
 ## Questions
